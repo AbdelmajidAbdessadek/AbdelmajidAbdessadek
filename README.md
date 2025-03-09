@@ -13,7 +13,7 @@ I'm a software developer passionate about building web and mobile applications. 
 - **Frontend:** React.js, Ionic/Angular, Bootstrap, Thymeleaf
 - **Backend:** Node.js, Express.js
 - **Mobile:** Cordova, Ionic, Android (Gradle)
-- **Database:** MongoDB, Firebase
+- **Database:** MongoDB, Firebase, MySQL
 - **Version Control:** Git, GitHub
 
 ## 📌 Current Projects
